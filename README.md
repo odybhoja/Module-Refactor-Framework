@@ -3,7 +3,7 @@
 
 A powerful framework for automating code refactoring and module restructuring across programming languages and frameworks.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-success.svg)](#)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
 
@@ -108,7 +108,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
